@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "3lFUwpBUBnhAUKDm-gP23"
+uri = "file://assets/images/icon.png"
+type = "image"
+title = "dating app icon"
+
+[[generated]]
+id = "B3ruqR7kToCuLo8A81Fqu"
+uri = "file://assets/images/splash.png"
+type = "image"
+title = "dating app splash"

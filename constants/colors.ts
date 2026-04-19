@@ -1,0 +1,28 @@
+export const Colors = {
+  background: '#0D0D0D',
+  card: '#1A1A1A',
+  cardElevated: '#242424',
+  primary: '#FF4458',
+  primaryDark: '#CC2B3E',
+  primaryLight: '#FF6B7A',
+  secondary: '#7C5CFC',
+  secondaryLight: '#9B7FFF',
+  foreground: '#FFFFFF',
+  foregroundSecondary: '#CCCCCC',
+  muted: '#8E8E93',
+  mutedBackground: '#1C1C1E',
+  border: '#2C2C2E',
+  success: '#34C759',
+  warning: '#FF9F0A',
+  like: '#FF4458',
+  dislike: '#636366',
+  superlike: '#3B82F6',
+  gold: '#FFD60A',
+  coin: '#FFD60A',
+  radius: 16,
+  radiusSm: 8,
+  radiusLg: 24,
+  radiusFull: 999,
+};
+
+export type ColorsType = typeof Colors;
